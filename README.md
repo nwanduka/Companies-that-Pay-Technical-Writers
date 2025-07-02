@@ -34,7 +34,7 @@ These sites pay writers for technical tutorials, programming guides, and dev-foc
 | **Smashing Magazine** | $250–$350 per article | Looks for web dev & UX design content. Needs technical depth. | Submit your pitch at [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) |
 | **SitePoint** | $150–$300 per article | Covers JavaScript, CSS, front-end frameworks, and WordPress. | Pitch your idea via [SitePoint](https://www.sitepoint.com/pitch/) |
 | **LogRocket Blog** | $350–$900 per article | Wants deep dives into front-end performance, React, and JavaScript. | Submit your pitch via [LogRocket Blog](https://blog.logrocket.com/write-for-us/) |
-| **CSS-Tricks** | $150–$250 per article | Focuses on front-end development, UI/UX, and CSS tutorials. | Pitch your article at [CSS-Tricks](https://css-tricks.com/write-for-us/) |
+| **CSS-Tricks** | $150–$250 per article | Focuses on front-end development, UI/UX, and CSS tutorials. | Pitch your article at [CSS-Tricks](https://css-tricks.com/guest-writing/) |
 
 ---
 
@@ -43,7 +43,7 @@ These publications accept guest contributions and pay for high-quality technical
 
 | **Publication** | **Pay Rate** | **Submission Guidelines** | **How to Apply** |
 |---------------|-------------|--------------------|---------------|
-| **A List Apart** | $200 per article | Focuses on web development, UX, and accessibility. | Submit at [A List Apart](https://alistapart.com/contribute/) |
+| **A List Apart** | $200 per article | Focuses on web development, UX, and accessibility. | Submit at [A List Apart](https://alistapart.com/about/contribute/) |
 | **Tuts+ (Envato)** | $100–$250 per tutorial | Accepts tutorials on web development, Python, and JavaScript. | Apply via [Tuts+](https://tutsplus.com/get-involved) |
 | **TechBeacon** | $200–$500 per article | Covers software development, testing, and DevOps. | Pitch via [TechBeacon](https://techbeacon.com/write-us) |
 | **Hackernoon** | $50–$150 per article | Accepts dev-focused stories, trends, and tech analysis. | Submit via [Hackernoon](https://hackernoon.com/contact) |
